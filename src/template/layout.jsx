@@ -7,7 +7,7 @@ function Layout() {
         <Box sx={{display: "flex", height: "100vh"}}>
             <CssBaseline/>
             <Grid container sx={{flexGrow: 1}}>
-                <Grid item flexBasis={220}  >NAVEGATION</Grid>
+                <Grid item flexBasis={220}  >NAViGATION</Grid>
                 <Grid item flex={1} spacing={8}>
                     <Grid xs={12}  >HEADER</Grid>
                     <Grid xs={12}  >USER INPUT</Grid>
